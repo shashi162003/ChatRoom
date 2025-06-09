@@ -2,7 +2,6 @@
 
 A modern, real-time chat application built with React, TypeScript, Node.js, and WebSockets. Features a clean black and white UI design with room-based messaging.
 
-![ChatRoom Demo](https://via.placeholder.com/800x400/000000/FFFFFF?text=ChatRoom+Demo)
 
 ## 🚀 Features
 
