@@ -96,8 +96,8 @@ npm run dev
 
 ### 4. Open Application
 
-- Frontend: http://localhost:5173
-- Backend WebSocket: ws://localhost:8080
+- Frontend: https://chat-room-mauve-delta.vercel.app/
+- Backend WebSocket: https://chatroom-backend-vtzq.onrender.com
 
 ## 📖 Detailed Documentation
 
@@ -107,12 +107,6 @@ npm run dev
 - [API Documentation](./docs/API.md)
 
 ## 🚀 Deployment
-
-### Vercel (Frontend)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shashi162003/ChatRoom)
-
-### Render (Backend)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shashi162003/ChatRoom)
 
 See [Deployment Guide](./docs/DEPLOYMENT.md) for detailed instructions.
 
